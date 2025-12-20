@@ -79,8 +79,8 @@ If you use this work in your research, please cite:
   year={2022}
 }
 ```
-Original Dataset available at https://huggingface.co/datasets/Linq-AI-Research/FinDER
-Data and Models useful for producing results are present at https://drive.google.com/drive/folders/1-JeFEVFaJe9C-3GK2o9jz3TgshVCJR_c?usp=sharing
+1. Original Dataset available at https://huggingface.co/datasets/Linq-AI-Research/FinDER
+2. Data and Models useful for producing results are present at https://drive.google.com/drive/folders/1-JeFEVFaJe9C-3GK2o9jz3TgshVCJR_c?usp=sharing
 
 ---
 
