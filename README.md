@@ -281,5 +281,4 @@ generalization to unseen queries.
 ## Author
 
 **Kriti Shahi**
-University of Maryland — MS in Applied Machine Learning
-[LinkedIn](https://linkedin.com/in/kritishahi)
+LinkedIn: [https://www.linkedin.com/in/kriti-shahi/]
